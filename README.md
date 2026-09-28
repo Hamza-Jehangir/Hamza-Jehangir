@@ -12,11 +12,11 @@
 
 </div>
 
-I am a Data Science student at FAST-NUCES Islamabad. Almost everything I publish sits in three places: **data visualization**, **analytics**, and **machine learning** — taking large, uneven datasets and turning them into dashboards and models a person can actually read.
+I am a Data Science student at FAST-NUCES Islamabad. Almost everything I publish sits in three places: **data visualization**, **analytics**, and **machine learning**. Taking large, uneven datasets and turning them into dashboards and models a person can actually read.
 
 At **PIDE Citypedia** I worked city-level data covering **20 Pakistani cities, 38 thematic areas, and 370+ indicators**, shaping Power BI reports and the public dashboard so researchers could see the story instead of the spreadsheet. At **AdVentures** I moved between product UI and **n8n** automations, including an AI-assisted workflow that sorted **thousands of HD images** into structured categories, with format conversion, API calls, and Drive storage.
 
-On my own time I build the same way: a 24-year Formula One model stitched from **10+ datasets**, reinforcement-learning work for maze navigation, and a research paper on **air quality in major cities**. I care about clean joins, honest charts, and work you can rerun — not a wall of certificates.
+On my own time I build the same way: a 24-year Formula One model stitched from **10+ datasets**, reinforcement-learning work for maze navigation, and a research paper on **air quality in major cities**. I care about clean joins, honest charts, and work you can rerun, not a wall of certificates.
 
 If you only open two repositories on this profile, open these.
 
@@ -93,6 +93,6 @@ If you only open two repositories on this profile, open these.
   <img height="160" src="https://streak-stats.demolab.com/?user=Hamza-Jehangir&theme=transparent&hide_border=true&background=00000000&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Hamza Jehangir GitHub streak" />
 </a>
 
-<sub>Islamabad · building in public · the grid fills when the work does.</sub>
+<sub>Islamabad · building in public · the grid fills when the work does. · Always working on myself.</sub>
 
 </div>

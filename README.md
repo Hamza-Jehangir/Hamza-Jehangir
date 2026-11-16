@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-faheem-jehangir-123632375/)
 [![Email](https://img.shields.io/badge/hamzafjehangir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzafjehangir@gmail.com)
 [![GitHub](https://img.shields.io/badge/Hamza--Jehangir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza-Jehangir)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hamza-Jehangir&color=3FB950&style=for-the-badge&label=VIEWS)](https://github.com/Hamza-Jehangir)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=21&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=720&lines=Data+visualization%2C+analytics%2C+machine+learning.;Power+BI+dashboards+from+messy+real-world+tables.;Python+%C2%B7+SQL+%C2%B7+n8n+%E2%80%94+built+in+internships%2C+not+tutorials.)](https://github.com/Hamza-Jehangir)
 

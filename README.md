@@ -15,7 +15,8 @@ I am a Data Science student at FAST-NUCES Islamabad. Almost everything I publish
 
 At **PIDE Citypedia**, I worked with city-level data covering **20 Pakistani cities, 38 thematic areas, and 370+ indicators**, shaping Power BI reports and the public dashboard so researchers could see the story instead of the spreadsheet. At **AdVentures**, I moved between product UI and **n8n** automations, including an AI-assisted workflow that sorted **thousands of HD images** into structured categories with format conversion, API calls, and Drive storage.
 
-On my own time, I build the same way: a 24-year Formula One model stitched from **10+ datasets**, reinforcement-learning work for maze navigation, web scraping pipelines, and a research paper on **air quality in major cities**. I care about clean joins, honest charts, and work you can rerun — not a wall of certificates.
+On my own time, I build the same way: a 24-year Formula One model stitched from **10+ datasets**, reinforcement-learning work for maze navigation, web scraping pipelines, and a research paper on **Visual Air Quality: A comparative study of spatiotemporal effects on major cities across Pakistan**. I care about clean joins, honest charts, and work you can rerun — not a wall of certificates.
+
 ---
 
 <div align="center">

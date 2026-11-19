@@ -21,7 +21,7 @@ On my own time, I build the same way: a 24-year Formula One model stitched from 
 
 <div align="center">
 
-## 🚀 Featured Repositories
+## Featured Repositories
 
 <table>
 <tr>
